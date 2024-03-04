@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Govinda Reddy Gari Mohan",
+      "mail": "mo@gmail.com",
+      "dob": "1111-11-11",
+      "role": "web developer",
+      "id": "ZgEZMoA",
+      "password": "133456"
+    },
+    {
+      "name": "Govinda Reddy Gari Mohan",
+      "mail": "MO@gmail.com",
+      "dob": "2222-02-22",
+      "role": "web developer",
+      "password": "123456",
+      "id": "bx9OM7W"
+    },
+    {
+      "name": "Govinda Reddy Gari Mohan",
+      "mail": "MohanG@gmail.com",
+      "dob": "2200-12-12",
+      "role": "web developer",
+      "password": "1234567",
+      "id": "ZJwA2Fw"
+    },
+    {
+      "name": "mohan",
+      "mail": "MohanG123@gmail.com",
+      "dob": "1111-11-11",
+      "role": "web developer",
+      "password": "123456",
+      "id": "FMMVX0D"
+    }
+  ]
